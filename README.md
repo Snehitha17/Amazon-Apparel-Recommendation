@@ -1,5 +1,5 @@
 # Amazon-Apparel-Recommendation
-Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites.
+Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites based on the implict data i.e when they type the title, brand, type etc produce recommendations.
 
 # Statement
 Personalized product recommendations are the alternative way of navigating through the online shop. More people find products they need. Even if they didn’t think of them.
