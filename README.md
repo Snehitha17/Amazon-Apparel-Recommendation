@@ -20,6 +20,7 @@ Data Source : amazon.com
 You need to have installed following softwares and libraries before running this project.
 
 Python 3: https://www.python.org/downloads/
+
 Anaconda: https://www.anaconda.com/download/
 
 # Libraries:
