@@ -15,3 +15,19 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 * Type of the product
 * Image of the apparel , etc...
 Data Source : amazon.com
+
+# Packages: 
+You need to have installed following softwares and libraries before running this project.
+
+Python 3: https://www.python.org/downloads/
+Anaconda: https://www.anaconda.com/download/
+
+# Libraries:
+- scikit-learn: scikit-learn is a Python module for machine learning built on top of SciPy.
+
+pip install scikit-learn
+conda install -c anaconda scikit-learn
+- scipy: SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+
+pip install scipy
+conda install -c anaconda scipy
